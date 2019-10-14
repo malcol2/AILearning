@@ -631,3 +631,4 @@ mage字幕是为给定图像生成文本描述的任务。
           </td>
       </tbody>
 </table>
+# AILearning
